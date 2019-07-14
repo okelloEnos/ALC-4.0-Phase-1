@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="button">ABOUT ALC</string>
+    <string name="pro">MY  PROFILE</string>
+    <string name="todo">My Profile</string>
+    <string name="okello">Okello Enos</string>
+    <string name="track">Track: Android</string>
+    <string name="phone">Phone number:  +254716229563</string>
+    <string name="userName">Slack Username: @OkelloEnos</string>
+    <string name="email">Email: enosokello@gmail.com</string>
+    <string name="country">Country: Kenya</string>
+    <string name="tool">About ALC</string>
+
+</resources>
